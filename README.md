@@ -35,18 +35,19 @@ data analysis (EDA), and hypothesis testing, focusing on both two-tailed and one
    ![image](https://github.com/varun-crypto/Statistical-Analysis-of-NYPD-Drug-Related-Arrests-2018-2019/assets/69026838/209aa915-0371-4e56-8dfc-949d517777dc)
 
 2. Sex Distribution of Arrests (Figure 2).
+   
    ![image](https://github.com/varun-crypto/Statistical-Analysis-of-NYPD-Drug-Related-Arrests-2018-2019/assets/69026838/ca3de2d6-06ea-489e-aec7-a4192f118981)
 
-3. Race Distribution of Arrests (Figure 3).
+4. Race Distribution of Arrests (Figure 3).
    ![image](https://github.com/varun-crypto/Statistical-Analysis-of-NYPD-Drug-Related-Arrests-2018-2019/assets/69026838/c076fcd3-457b-4bfe-923f-7c922c1f9488)
 
-4. Temporal Trends in Arrests (Figure 4).
+5. Temporal Trends in Arrests (Figure 4).
    ![image](https://github.com/varun-crypto/Statistical-Analysis-of-NYPD-Drug-Related-Arrests-2018-2019/assets/69026838/e780b2c4-07f8-4b3d-a07c-72f14605e270)
 
-5. Geographic Distribution of Arrests (Figure 5).
+6. Geographic Distribution of Arrests (Figure 5).
    ![image](https://github.com/varun-crypto/Statistical-Analysis-of-NYPD-Drug-Related-Arrests-2018-2019/assets/69026838/2d24caae-26a9-401c-ab5a-74902694d397)
 
-6. Top Ten Offenses by Frequency (Figure 6).
+7. Top Ten Offenses by Frequency (Figure 6).
    ![image](https://github.com/varun-crypto/Statistical-Analysis-of-NYPD-Drug-Related-Arrests-2018-2019/assets/69026838/e11f7546-c9c9-43d7-a4d7-a087c6bd4e93)
 
  From the results we can see various patterns in the initial analysis of the overall dataset. From Figure
